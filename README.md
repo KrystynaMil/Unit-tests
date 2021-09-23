@@ -1,9 +1,9 @@
 # Unit-tests
 
-Unit test - writing the code for testing user interaction, state, connected components, asynchronous code and working with mocks.
+Unit tests - writing the code for testing user interaction, state, connected components, asynchronous code and working with mocks.
 
-![Demo]()
-![Demo]()
+![Demo](https://github.com/KrystynaMil/Unit-tests/blob/main/public/screen.png)
+![Demo](https://github.com/KrystynaMil/Unit-tests/blob/main/public/screen1.png)
 
 ## Created with:
  - @testing-library/jest
